@@ -1,0 +1,26 @@
+# Challenge binaries — do not redistribute (most crackme sites prohibit this)
+*.exe
+*.bin
+*.elf
+*.dll
+*.out
+main
+main.exe
+
+# Radare2 project/session files
+*.r2project
+.r2/
+
+# Python (if scripts are used to verify solutions)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
