@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31844441/README.md)
 # Reverse Engineering Writeups
 
 Static and dynamic analysis writeups of crackmes and binary challenges, mostly solved with Radare2. Each writeup documents the full analysis process — disassembly, control-flow tracing, and any hidden logic uncovered along the way — rather than just the final answer.
